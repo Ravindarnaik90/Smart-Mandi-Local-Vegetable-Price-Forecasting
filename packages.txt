@@ -1,1 +1,2 @@
-# System packages (for Streamlit Cloud - usually not needed)
+ffmpeg
+libgl1-mesa-glx
